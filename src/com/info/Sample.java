@@ -11,5 +11,7 @@ public class Sample {
 	}
 	public void empId() {
 		System.out.println("empId");
-
-}
+		}
+	public void empPhone() {
+		System.out.println("empPhone");}
+	}
